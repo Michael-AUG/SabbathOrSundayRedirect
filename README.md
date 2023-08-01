@@ -1,7 +1,7 @@
 # Sabbath Or Sunday Redirect
 There are many reasons why you may want to redirect your webpage to another page on a particular day.
 
-It may be that you are part of a faith that marks a holy day - for example Christians mark Sundays as the Sabbath. You may want to redirect your site on a Holy Day.
+It may be that you are part of a faith that marks a holy day - for example Christians mark Sundays as the Sabbath. You may want to redirect your site on a Holy Day. This is how I use the script on my personal (non radio) website.
 
 It may be that you always perform updates or make changes on a particular day of the week and want to display a holding page instead.
 
@@ -24,5 +24,5 @@ As it stands, there are only two changes you need to make.
 This is a very simple script that many people would be able to write in their sleep; but for those who have been struggling to find a way to affect a redirect like this, I hope it is of help to you.
 As ever, contact me with any comments or questions.
 
-Best wishes
-Michael GM5AUG - "Michael-AUG"
+Best wishes,
+Michael GM5AUG - *Michael-AUG*
