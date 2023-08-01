@@ -1,4 +1,4 @@
-# SabbathOrSundayRedirect
+# Sabbath Or Sunday Redirect
 There are many reasons why you may want to redirect your webpage to another page on a particular day.
 
 It may be that you are part of a faith that marks a holy day - for example Christians mark Sundays as the Sabbath. You may want to redirect your site on a Holy Day.
