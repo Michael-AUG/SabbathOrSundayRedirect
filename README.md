@@ -15,9 +15,9 @@ To implement this script, simply copy/paste it to the top of your HTML or Markdo
 
 As it stands, there are only two changes you need to make.
 
-1. On line 6 of the code, change the number (default 0) to the day of your choice. As the comment says, Sunday is 0, Monday is 1, Tuesday is 2, etc
+1. On line 6 of the code, change the number (default `0`) to the day of your choice. As the comment says, Sunday is 0, Monday is 1, Tuesday is 2, etc
 
-2. On line 8 of the code, replace '/path/to/sunday-page' with the URL of your redirect page. This can either be an absolute link or a server-side link. Be sure to keep the two apostrophes on either side of the URL, or it won't work.
+2. On line 8 of the code, replace `'/path/to/sunday-page'` with the URL of your redirect page. This can either be an absolute link or a server-side link. Be sure to keep the two apostrophes on either side of the URL, or it won't work.
 
 ## Conclusion
 
