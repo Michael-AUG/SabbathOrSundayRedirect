@@ -25,5 +25,4 @@ This is a very simple script that many people would be able to write in their sl
 As ever, contact me with any comments or questions.
 
 Best wishes
-Michael GM5AUG
-"Michael-AUG"
+Michael GM5AUG - "Michael-AUG"
